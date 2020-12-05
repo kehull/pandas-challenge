@@ -1,0 +1,1 @@
+In this report, I examine the performance of schools in a district based on factors such as reading and math grades, passing percentage, and per student budget. The code for these analyses is written in Python, using the Pandas library.

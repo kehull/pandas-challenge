@@ -1,0 +1,9 @@
+DATA OBSERVATIONS:
+
+- All of the overall top-performing schools were Charter schools, while all bottom-performing schools were District schools.
+
+- While the top performing schools performed slightly higher on average than the bottom performing schools in reading (scores of around 83-84 vs 80-81 respectively), there was a much bigger gap between the highest performing schools' and lowest performing schools' math scores (scores of around 83 vs scores of 76-77). 
+
+- I was surprised to see that the per student budgets for both the top and bottom performing schools were in teh $575-$660 range.
+
+- At any given school, the students' average grades in both math and reading tended to neither increase nor decrease over the course of their time in high school.
